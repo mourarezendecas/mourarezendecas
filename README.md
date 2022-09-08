@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em busca da minha primeira experiência profissional como desenvolvedor!
-- 🌱 Estou aprendendo: Flutter, Java e Python.
+- 🌱 Estou aprendendo: Java, Groovy, JavaScript e Typescript
 - 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/gabrielcmrezende/)
 
 
